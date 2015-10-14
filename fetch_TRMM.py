@@ -2,7 +2,7 @@
 """
 Created on Wed Sep 30 12:34:47 2015
 
-@author: mgh
+@author: michael
 """
 
 from pydap.client import open_url
